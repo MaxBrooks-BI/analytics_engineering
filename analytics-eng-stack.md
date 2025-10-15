@@ -1,4 +1,4 @@
-##Windows 11 Pro Data Platform: MinIO + Iceberg + Nessie + PostgreSQL + Spark (custom image) + DuckDB + dbt Core (Visual Studio 2022)
+## Windows 11 Pro Data Platform: MinIO + Iceberg + Nessie + PostgreSQL + Spark (custom image) + DuckDB + dbt Core (Visual Studio 2022)
 
 This repository-style Markdown gives a ready-to-run local data platform on Windows 11 Pro using WSL2 (Ubuntu) and Docker Desktop. It includes:
 
